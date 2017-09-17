@@ -1,0 +1,31 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\marcosernesto\Documents\Programando\java-eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\laboratorio2\com.python.pydev.analysis\v2_indexcache
+dimensiones|1494344562746682000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio2\src\dimensiones.py
+Resolución|1494344562824814000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio2\src\Resolución.py
+Filtro|1471989918629102000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio2\src\Filtro.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=dimensiones
+1=Resolución
+3=Filtro
+-- END DICTIONARY
+-- START TREE 1
+12
+aum|1|aumenta_dism!10@
+esc|1|escalar!18@
+fil|1|filtros!26@
+hac|1|hacer_gris!10@
+im|1|im!11@
+ima|1|imagen!11@
+mai|2|main!18@main!26@
+pix|1|pixel!26@
+tom|2|toma_ancho!11@toma_alto!11@
+vec|1|vecinos!26@
+x|1|x!19@
+y|1|y!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

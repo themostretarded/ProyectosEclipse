@@ -1,0 +1,72 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\marcosernesto\Documents\Programando\java-eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\tarea6\com.python.pydev.analysis\v2_indexcache
+Código|1462680037503171000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\tarea6\src\Código.py
+mascaras|1460766571386000000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\tarea6\src\mascaras.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Código
+1=mascaras
+-- END DICTIONARY
+-- START TREE 1
+55
+agr|1|agregarRuidoSalYPimienta!10@
+agu|2|agujeros!18@agujero!18@
+amp|1|ampliar!10@
+ang|1|angulos!10@
+azu|1|azul!10@
+bin|1|binariza!10@
+bor|1|bordes!10@
+bou|1|boundingboxes!10@
+box|1|box!18@
+bw|1|bw!10@
+can|1|canal!10@
+cla|1|claro!10@
+com|2|componente!10@combine!10@
+con|1|convolucion!10@
+dat|1|datosDeVecinos!10@
+det|1|detectaBorde!10@
+dom|1|dominante!10@
+eli|2|eliminarRuidoSalYPimienta!10@eliminatePlains!18@
+esq|1|esquinas!10@
+exi|1|existe!10@
+exo|1|ExOrd!11@
+ext|1|extraord!10@
+fre|1|frecuencias!10@
+gen|1|generaColoresAleatorios!10@
+gra|1|gradientes!10@
+gri|1|gris!10@
+lin|1|lineas!10@
+loc|1|localExtrema!18@
+mag|1|magnitud!10@
+mar|1|marcador!10@
+mat|1|matrix2grayscale!10@
+may|2|mayor!10@mayor!18@
+med|1|mediano!10@
+men|2|menor!18@menor!10@
+min|1|minomax!18@
+niv|1|niveles!10@
+nor|2|normaliza!10@norm2grayscale!18@
+obj|1|objetos!10@
+obt|1|obtenColor!10@
+opc|1|opciones!11@
+osc|1|oscuro!10@
+pid|1|pideEntero!10@
+pre|2|PrewittY!11@PrewittX!11@
+pro|1|promedio!10@
+pru|1|prune!18@
+rad|1|RADIO!11@
+ran|1|RANGO!19@
+ree|1|reemplazo!10@
+rob|2|RobertsY!11@RobertsX!11@
+roj|1|rojo!10@
+sel|2|seleccionaCanal!10@selectPixels!10@
+sep|1|separaFondo!10@
+sob|2|SobelX!11@SobelY!11@
+umb|1|umbral!10@
+ver|1|verde!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

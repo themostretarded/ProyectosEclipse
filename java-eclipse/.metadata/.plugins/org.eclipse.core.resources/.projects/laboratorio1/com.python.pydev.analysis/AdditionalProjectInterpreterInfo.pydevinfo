@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\marcosernesto\Documents\Programando\java-eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\laboratorio1\com.python.pydev.analysis\v2_indexcache
+luminoso|1471297249801494000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio1\src\luminoso.py
+invertir|1471297233904918000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio1\src\invertir.py
+tono|1471297260738855000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio1\src\tono.py
+contraste|1471324334233627000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio1\src\contraste.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=luminoso
+2=invertir
+4=tono
+1=contraste
+-- END DICTIONARY
+-- START TREE 1
+5
+con|1|contraste!10@
+esc|2|escala_grises!18@escala_g!26@
+mai|4|main!18@main!34@main!10@main!26@
+ton|1|tono!34@
+umb|1|umb!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

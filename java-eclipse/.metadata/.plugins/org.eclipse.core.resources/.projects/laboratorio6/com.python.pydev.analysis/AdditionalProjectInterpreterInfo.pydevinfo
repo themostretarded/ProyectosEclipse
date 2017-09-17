@@ -1,0 +1,47 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\marcosernesto\Documents\Programando\java-eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\laboratorio6\com.python.pydev.analysis\v2_indexcache
+Elipses|1471989934197993000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\laboratorio6\src\Elipses.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+6=Aplicacion.__init__
+1=Elipses
+3=Aplicacion
+4=Aplicacion.initUI
+2=Aplicacion.convolucion
+5=Aplicacion.escala_grises
+-- END DICTIONARY
+-- START TREE 1
+2
+apl|1|Aplicacion!9@
+mai|1|main!10@
+-- END TREE
+-- START TREE 2
+25
+Gx|1|Gx!2&11@
+Gy|1|Gy!2&11@
+__i|1|__init__!3&10@
+bfs|1|bfs!3&10@
+bin|1|binarizar!3&10@
+bot|2|boton_convolucion!3&10@boton_colorear!3&10@
+c_c|1|c_colorear!3&10@
+car|1|cargar_imagen!3&10@
+cen|1|centro_masa!3&10@
+col|2|colors!4&11@colocar_gris!3&10@
+con|3|conv!4&11@conv!2&11@convolucion!3&10@
+det|1|detectar_elipses!3&10@
+esc|1|escala_grises!3&10@
+fil|1|filtro!3&10@
+imp|1|imprimir_porcentajes!3&10@
+ini|1|initUI!3&10@
+mas|1|mascara!3&10@
+mat|1|matriz!5&11@
+max|1|maximo!2&11@
+min|1|minimo!2&11@
+nor|1|normalizar!3&10@
+o_i|1|o_imagen!4&11@
+obt|1|obtener_imagen!3&10@
+par|1|parent!6&11@
+vec|1|vecindad!3&10@
+-- END TREE

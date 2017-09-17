@@ -1,0 +1,31 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\marcosernesto\Documents\Programando\java-eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\tarea2\com.python.pydev.analysis\v2_indexcache
+Código|1460758925739333000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\tarea2\src\Código.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Código
+-- END DICTIONARY
+-- START TREE 1
+16
+bfs|1|bfs!10@
+bin|1|bina!10@
+bor|1|bordes!10@
+col|1|colors!11@
+con|1|convolucion!10@
+dif|1|difference!10@
+fil|1|filtro!10@
+lin|1|lineas_objeto!10@
+mai|1|main!10@
+min|2|MIN!11@MINIMUM_LINE_LENGTH!11@
+mod|1|modifica_bfs!10@
+nor|1|normaliza!10@
+tar|1|tarda!11@
+tom|1|toma_centro!10@
+tra|1|transforma!10@
+vec|1|vecinos!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

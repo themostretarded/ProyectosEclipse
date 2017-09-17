@@ -1,0 +1,94 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\marcosernesto\Documents\Programando\java-eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\examen\com.python.pydev.analysis\v2_indexcache
+fase5|1474584397094273000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\examen\src\fase5.py
+fase4|1460762123707182000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\examen\src\fase4.py
+fase3|1474587735381958000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\examen\src\fase3.py
+mascaras|1474584396969790000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\examen\src\mascaras.py
+fase1|1474585525031127000|C:\Users\marcosernesto\Documents\Programando\java-eclipse\examen\src\fase1.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+3=fase5
+1=fase4
+2=mascaras
+5=fase3
+4=fase1
+-- END DICTIONARY
+-- START TREE 1
+71
+act|1|actual!11@
+agr|1|agregarRuidoSalYPimienta!18@
+amb|1|ambos!11@
+amp|1|ampliar!18@
+ang|1|angulos!18@
+azu|1|azul!18@
+bin|1|binariza!18@
+bor|1|bordes!18@
+bou|1|boundingboxes!18@
+bw|1|bw!18@
+can|1|canal!18@
+cir|1|circle_detection!10@
+cla|1|claro!18@
+com|2|componente!18@combine!18@
+con|4|convolucion!10@convolucion!18@contact!26@conv!34@
+cro|1|crossing!26@
+dat|1|datosDeVecinos!18@
+det|1|detectaBorde!18@
+dir|1|direction!26@
+dis|2|distance!10@distance!26@
+dom|1|dominante!18@
+eli|2|elipses!26@eliminarRuidoSalYPimienta!18@
+esq|2|esquina!42@esquinas!18@
+eva|1|eval!26@
+exi|1|existe!18@
+exo|1|ExOrd!19@
+ext|1|extraord!18@
+fin|1|find_centers!10@
+fre|1|frecuencias!18@
+gen|1|generaColoresAleatorios!18@
+gra|3|grady!11@gradientes!18@gradx!11@
+gri|1|gris!18@
+gro|1|group_votes!10@
+im|1|im!11@
+ima|1|image!27@
+is_|1|is_neighbor!10@
+lin|2|line!26@lineas!18@
+mag|1|magnitud!18@
+mai|2|main!42@main!34@
+mar|1|marcador!18@
+mat|1|matrix2grayscale!18@
+may|1|mayor!18@
+med|1|mediano!18@
+men|1|menor!18@
+mid|1|midpoint!26@
+nea|1|near!26@
+niv|1|niveles!18@
+nor|1|normaliza!18@
+obj|1|objetos!18@
+obt|1|obtenColor!18@
+off|1|offset!26@
+opc|1|opciones!19@
+osc|1|oscuro!18@
+otr|1|otro_gris!42@
+pai|1|paint_circles!10@
+par|1|parallel!26@
+pid|1|pideEntero!18@
+pre|2|PrewittY!19@PrewittX!19@
+pro|1|promedio!18@
+rad|1|RADIO!19@
+ran|1|RANGO!27@
+ree|1|reemplazo!18@
+rob|2|RobertsY!19@RobertsX!19@
+roj|1|rojo!18@
+sel|2|seleccionaCanal!18@selectPixels!18@
+sep|1|separaFondo!18@
+sob|4|sobelx!11@SobelX!19@SobelY!19@sobely!11@
+umb|2|UMBRAL!27@umbral!18@
+ver|1|verde!18@
+vis|1|visible!26@
+zer|2|ZERO!27@zeros!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
